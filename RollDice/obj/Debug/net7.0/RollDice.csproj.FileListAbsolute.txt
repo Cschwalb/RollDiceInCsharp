@@ -1,0 +1,15 @@
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.csproj.AssemblyReference.cache
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.AssemblyInfoInputs.cache
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.AssemblyInfo.cs
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.csproj.CoreCompileInputs.cache
+/Users/crypto/RiderProjects/RollDice/RollDice/bin/Debug/net7.0/RollDice
+/Users/crypto/RiderProjects/RollDice/RollDice/bin/Debug/net7.0/RollDice.deps.json
+/Users/crypto/RiderProjects/RollDice/RollDice/bin/Debug/net7.0/RollDice.runtimeconfig.json
+/Users/crypto/RiderProjects/RollDice/RollDice/bin/Debug/net7.0/RollDice.dll
+/Users/crypto/RiderProjects/RollDice/RollDice/bin/Debug/net7.0/RollDice.pdb
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.dll
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/refint/RollDice.dll
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.pdb
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/RollDice.genruntimeconfig.cache
+/Users/crypto/RiderProjects/RollDice/RollDice/obj/Debug/net7.0/ref/RollDice.dll
